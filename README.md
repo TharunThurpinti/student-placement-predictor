@@ -62,6 +62,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Live Demo
+
+https://student-placement-predictor-mazptwdkmgovyzf8q4ng7z.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/TharunThurpinti/student-placement-predictor
+
 ## 👨‍💻 Author
 
 **Tharun Kumar**
